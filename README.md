@@ -9,3 +9,9 @@ Searching for Theorem and their Formulas or Proof can be hard and might not be v
 
 # Summary:
  This is a very Useful Bot and Helps people save time searching for Theorems since the Data's are Preloaded in the form of Text or message files. This is a Basic Bot Service, so kindly verify the data sets to know the commands. In Future this Bot can be Enhanced and Deployed on Platforms like Telegram, Alexa and others for Better Usability.
+
+# Primary Azure Technology:
+Azure Bot Service, Azure Cognitive Services, Microsoft Azure portal,
+
+# Other Azure Technologies:
+WordPress, QnA Maker, App Services
