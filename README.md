@@ -8,4 +8,4 @@ Theorem Bot has been Created so people can access and show Few Theorem, What is 
 Searching for Theorem and their Formulas or Proof can be hard and might not be very convenient for many users and since it uses pages as history accessing it every time will be difficult. To Solve this Problem, Creating a Chatbot will be an Ideal Solution as it will Save the Contents as Text and getting data from that will be faster and easier. These Chatbots can also be used or added in Multiple  Platforms like Alexa, Telegram, Facebook etc. according to our Ease.
 
 # Summary:
- This is a very Useful Bot and Helps people save time searching for Theorems since the Data's are Preloaded in the form of Text or message files. 
+ This is a very Useful Bot and Helps people save time searching for Theorems since the Data's are Preloaded in the form of Text or message files. This is a Basic Bot Service, so kindly verify the data sets to know the commands. In Future this Bot can be Enhanced and Deployed on Platforms like Telegram, Alexa and others for Better Usability.
