@@ -1,4 +1,5 @@
-# FutureReadyTalent
+# FutureReadyTalent Project
+# Theorem Bot
 
 # Description:
 Theorem Bot has been Created so people can access and show Few Theorem, What is the Meaning, Proof for the Theorem if it is available and Formulas if Available in Text Format. It reduces the time for searching and displaying the searched Content. SInce everything is in text form you can get all your questions answered faster. There is also a Chit-Chat Conversations list added so you have a Friendly Conversation after completing your Theorem Search.
