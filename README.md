@@ -1,3 +1,7 @@
 # FutureReadyTalent
 
-We have developed a bot which contains a lot of Information about the Corona Virus. Searching information on google might not be very convenient in all the cases. This Bot Provides almost all the Possible Answers related to Corona Virus. People can ask the Bot and it will reply with the best suitable answer. This Bot is created to Provide Useful Information to the Users.In Future this Bot can also be connected to Various other Platforms like Alexa, Telegram, Facebook and to more Services.
+# Description:
+Theorem Bot has been Created so people can access and show Few Theorem, What is the Meaning, Proof for the Theorem if it is available and Formulas if Available in Text Format. It reduces the time for searching and displaying the searched Content. SInce everything is in text form you can get all your questions answered faster. There is also a Chit-Chat Conversations list added so you have a Friendly Conversation after completing your Theorem Search.
+
+# Problem Statement:
+Searching for Theorem and their Formulas or Proof can be hard and might not be very convenient for many users and since it uses pages as history accessing it every time will be difficult. To Solve this Problem, Creating a Chatbot will be an Ideal Solution as it will Save the Contents as Text and getting data from that will be faster and easier. These Chatbots can also be used or added in Multiple  Platforms like Alexa, Telegram, Facebook etc. according to our Ease.
